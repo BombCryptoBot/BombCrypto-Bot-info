@@ -92,7 +92,7 @@ So you want to run multiple accounts? Se we do!
 ## **F.A.Q.**
 
 **Q)** Will my account be banned using this bot?\
-**A)** As far we can tell, there is no rule against automatization into BombCrypto, and if so.. the game was built as a web game that renders Unity over WebGL (Wich has no API to detect what's running outside the browser sandbox, also there is no browser automation (like selenium) so the JavaScript API has no permission to overscale permission into OS to detect too)
+**A)** As far we can tell, there is no rule against automatization into BombCrypto, and if so.. the game was built as a web game that renders Unity over WebGL (Wich has no API to detect what's running outside the browser sandbox, also there is no browser automation (like selenium) so the JavaScript API has no rights to overscale permission into OS to detect too)
 
 **Q)** Will I be able to open multiple accounts with this bot?\
 **A)** Yes. The limit of multiple instances is the power of your computer running multiple VM's.
