@@ -5,7 +5,7 @@ This is not OpenSource software, as we believe that this needs time, dedication,
 
 This bot works looking for image patterns on the screen and controlling the mouse functions as a real person would do.
 
-Want to know more? Get into our Discord channel at https://discord.gg/qPUqsAChn2
+Want to know more? Get into our Discord channel at https://discord.gg/tZ6a2HbK9q
 
 
 ## **How this bot works?**
@@ -99,7 +99,7 @@ So you want to run multiple accounts? Se we do!
 **A)** The actual price of the bot is 300 BCOINs.
 
 **Q)** How to buy this bot?\
-**A)** You need to get into our discord channel (https://discord.gg/qPUqsAChn2) and follow the instructions there.
+**A)** You need to get into our discord channel (https://discord.gg/tZ6a2HbK9q) and follow the instructions there.
 
 **Q)** If I bought this bot, and the game gets an update the breaks the bot what happens?\
 **A)** We'll provide regular updates to the bot users at our discord channel.
