@@ -96,7 +96,7 @@ So you want to run multiple accounts? Se we do!
 **A)** Yes. The limit of multiple instances is the power of your computer running multiple VM's.
 
 **Q)** How much does it cost?\
-**A)** The actual price of the bot is 300 BCOINs.
+**A)** The actual price of the bot is 100 BCOINs.
 
 **Q)** How to buy this bot?\
 **A)** You need to get into our discord channel (https://discord.gg/tZ6a2HbK9q) and follow the instructions there.
