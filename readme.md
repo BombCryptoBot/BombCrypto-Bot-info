@@ -16,7 +16,7 @@ Want to know more? Get into our Discord channel at https://discord.gg/tZ6a2HbK9q
 - It uses your own firefox profile (already logged in into metamask with a stored password to unlock).
 - It recognizes in what "step" your account is, (Loggin, Working, Resting and so) and control the browser to ensure your account is working all the time.
 
-You can see it running here: https://vimeo.com/650829525
+You can see it running here: https://vimeo.com/650831729
 
 
 ## **What does this bot do?**
