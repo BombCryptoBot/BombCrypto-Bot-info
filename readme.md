@@ -1,4 +1,4 @@
-# BombCrypto - Bot (V2.1)
+# BombCrypto - Bot (V2.2)
 
 This is a fully automated script that manages your account(s) 24/7, letting you rest the entire day while your heroes work.
 This is not OpenSource software, as we believe that this needs time, dedication, and a lot of work to create a safe and secure bot for all our accounts.
@@ -20,7 +20,8 @@ You can see it running here: https://vimeo.com/650831729
 
 
 ## **What does this bot do?**
-- Solves the new "Anti-Bot Captcha" system
+- Solves the new "Anti-Bot Captcha" system in 1-2 seconds
+- Simulates human like mouse moviments
 - Unlocks your metamask wallet
 - Connect the wallet to the game
 - Sign the wallet to the game
